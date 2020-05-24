@@ -5,8 +5,8 @@
 ## Summary
 * First web page I ever coded
 
-* Created the content for a fake univiersty 
+* Created the content for a fake university 
 
 * Responsive design with media queries
 
-* Future updates will include fixing some syntax issues, HTML bugs and cleaning up the class naming conventions
+* Structure and semantic execution of my code is still rather rudimentary at this stage, but it was a fun project to jump into and create a baseline to improve from.
